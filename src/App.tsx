@@ -1,7 +1,7 @@
 const App = ()=>{
   return(
     <>
-    Deployed site
+ <h1>   Deployed site</h1>
     </>
   )
 };
